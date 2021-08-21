@@ -1,0 +1,33 @@
+{
+  "name": "Rocket_BE",
+  "version": "1.0.0",
+  "description": "Rocket's Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RocketDev",
+  "license": "Rocket License",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13",
+    "npm": "^7.17.0",
+    "path": "^0.12.7",
+    "prompt": "^1.1.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "uuid": "^3.4.0",
+    "ws": "^7.4.6",
+    "xml-parser": "^1.2.1",
+    "xmlbuilder": "^15.1.1"
+  }
+}
